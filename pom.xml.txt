@@ -1,0 +1,23 @@
+# Build
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Local H2 database
+*.mv.db
+*.trace.db
+*.lock.db
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
